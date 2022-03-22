@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Form Validator component with Formik and Yup for React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- Validator [Formik and Yup](https://formik.org/docs/guides/typescript)
+- Style: tailwind
+
+<p align="center">
+  <a href="http://nextjs.org/" target="blank"><img src="sample-form.jpg" width="960" alt="Sample Formik" /></a>
+</p>
 
 ## Available Scripts
 
